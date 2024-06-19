@@ -1,20 +1,60 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de Site",
       "type": "income",
       "category": "Venda",
-      "price": 1500.00,
+      "price": 1500,
       "date": "2024-06-18T22:16:32.367Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Lanche",
       "type": "outcome",
       "category": "Alimentacao",
       "price": 50,
       "date": "2024-06-18T22:16:32.367Z"
+    },
+    {
+      "id": "6757",
+      "description": "Teste",
+      "price": 2500,
+      "category": "Venda",
+      "type": "income",
+      "date": "2024-06-18T22:16:32.367Z"
+    },
+    {
+      "id": "6649",
+      "description": "Teste",
+      "price": 2500,
+      "category": "Venda",
+      "type": "income",
+      "date": "2024-06-18T22:16:32.367Z"
+    },
+    {
+      "id": "2669",
+      "description": "Ola mundo",
+      "price": 25900,
+      "category": "assa",
+      "type": "outcome",
+      "date": "2024-06-19T23:08:57.872Z"
+    },
+    {
+      "id": "db53",
+      "description": "Ola mundo",
+      "price": 25900,
+      "category": "assa",
+      "type": "outcome",
+      "date": "2024-06-19T23:09:02.537Z"
+    },
+    {
+      "id": "dc1e",
+      "description": "teste",
+      "price": 1500,
+      "category": "Alimentacao",
+      "type": "income",
+      "date": "2024-06-19T23:24:37.074Z"
     }
   ]
 }
